@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="dc42455297a4c210da5ff141f053afce" sys_domain="global" table="incident" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inline_checklist_macro</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 05:34:53</sys_created_on>
+            <sys_id>2842455297a4c210da5ff141f053afec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Checklist">ade76621c3200200e280dccdf3d3ae9a</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 05:34:53</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>com_glideapp_questionset_default_question_editor</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 05:34:53</sys_created_on>
+            <sys_id>a042455297a4c210da5ff141f053afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Incident Variable Editor">710bb6ba0a0a0b0100ba712aa4b9f048</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 05:34:53</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sn_res_shaper_resolution_shaper.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 05:34:53</sys_created_on>
+            <sys_id>e442455297a4c210da5ff141f053afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="ResolutionShaper">58dca524d77002004f1e82285e610309</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 05:34:53</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 05:34:53</sys_created_on>
+            <sys_id>ac42455297a4c210da5ff141f053afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 05:34:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_crumbs</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 05:34:53</sys_created_on>
+            <sys_id>a042455297a4c210da5ff141f053afee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Parent Breadcrumbs">a25ea5f8c0a80a6d3f3e5dde6317a3be</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 05:34:53</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 05:34:53</sys_created_on>
+            <sys_id>e442455297a4c210da5ff141f053afee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 05:34:53</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 05:34:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc42455297a4c210da5ff141f053afce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="my app" source="x_1324330_app">048ffc0e97a48210da5ff141f053af8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="my app">048ffc0e97a48210da5ff141f053af8a</sys_scope>
+            <sys_update_name>sys_ui_section_dc42455297a4c210da5ff141f053afce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 05:34:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="my app">048ffc0e97a48210da5ff141f053af8a</application>
+        <file_path/>
+        <instance_id>3d29ebdf6f899640d54da9cc5d3ee498</instance_id>
+        <instance_name>dev17570</instance_name>
+        <name>sys_ui_section_dc42455297a4c210da5ff141f053afce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="dc42455297a4c210da5ff141f053afce" sys_domain="global" table="incident" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>inline_checklist_macro</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 05:34:53</sys_created_on><sys_id>2842455297a4c210da5ff141f053afec</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Checklist">ade76621c3200200e280dccdf3d3ae9a</sys_ui_formatter><sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 05:34:53</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>com_glideapp_questionset_default_question_editor</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 05:34:53</sys_created_on><sys_id>a042455297a4c210da5ff141f053afed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Incident Variable Editor">710bb6ba0a0a0b0100ba712aa4b9f048</sys_ui_formatter><sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 05:34:53</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sn_res_shaper_resolution_shaper.xml</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 05:34:53</sys_created_on><sys_id>e442455297a4c210da5ff141f053afed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="ResolutionShaper">58dca524d77002004f1e82285e610309</sys_ui_formatter><sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 05:34:53</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 05:34:53</sys_created_on><sys_id>ac42455297a4c210da5ff141f053afed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 05:34:53</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>parent_crumbs</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 05:34:53</sys_created_on><sys_id>a042455297a4c210da5ff141f053afee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Parent Breadcrumbs">a25ea5f8c0a80a6d3f3e5dde6317a3be</sys_ui_formatter><sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 05:34:53</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ratings.xml</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 05:34:53</sys_created_on><sys_id>e442455297a4c210da5ff141f053afee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter><sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="Default view">dc42455297a4c210da5ff141f053afce</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 05:34:53</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>incident</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 05:34:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dc42455297a4c210da5ff141f053afce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident</sys_name><sys_overrides/><sys_package display_value="my app" source="x_1324330_app">048ffc0e97a48210da5ff141f053af8a</sys_package><sys_policy/><sys_scope display_value="my app">048ffc0e97a48210da5ff141f053af8a</sys_scope><sys_update_name>sys_ui_section_dc42455297a4c210da5ff141f053afce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 05:34:52</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-560062979</payload_hash>
+        <record_name>Incident</record_name>
+        <reverted_from/>
+        <source>848ffc0e97a48210da5ff141f053af8c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 05:34:53</sys_created_on>
+        <sys_id>6442455297a4c210da5ff141f053aff1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18de3e8aefe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 05:34:53</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e8424552cda4c2103c8263e6bfeeeaf0</update_guid>
+        <update_guid_history>e8424552cda4c2103c8263e6bfeeeaf0:-560062979</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 05:35:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1d55a9229054427a89e0bae7f255a124</sys_id>
+        <sys_metadata>dc42455297a4c210da5ff141f053afce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="my app" source="x_1324330_app">048ffc0e97a48210da5ff141f053af8a</sys_package>
+        <sys_parent display_value="Incident">8ef778397db1311076daf29f52070d0e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="my app">048ffc0e97a48210da5ff141f053af8a</sys_scope>
+        <sys_scope_delete display_value="">30f8b0b2241048afb7bbde3dfb58da91</sys_scope_delete>
+        <sys_update_name>sys_ui_section_dc42455297a4c210da5ff141f053afce</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_dc42455297a4c210da5ff141f053afce">6442455297a4c210da5ff141f053aff1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 05:35:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

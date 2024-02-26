@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6b6d8d4e97e48210da5ff141f053af9f</sp_column>
+        <sp_widget display_value="Login">6506d341cb33020000f8d856634c9cdc</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 11:45:13</sys_created_on>
+        <sys_id>2b6d8d4e97e48210da5ff141f053afa2</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Login</sys_name>
+        <sys_package display_value="my app" source="x_1324330_app">048ffc0e97a48210da5ff141f053af8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my app">048ffc0e97a48210da5ff141f053af8a</sys_scope>
+        <sys_update_name>sp_instance_2b6d8d4e97e48210da5ff141f053afa2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 14:08:16</sys_updated_on>
+        <title>Login</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"show_panel": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"use_advanced": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=2b6d8d4e97e48210da5ff141f053afa2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="my app">048ffc0e97a48210da5ff141f053af8a</application>
+        <file_path/>
+        <instance_id>3d29ebdf6f899640d54da9cc5d3ee498</instance_id>
+        <instance_name>dev17570</instance_name>
+        <name>sp_instance_2b6d8d4e97e48210da5ff141f053afa2</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;6b6d8d4e97e48210da5ff141f053af9f&lt;/sp_column&gt;&lt;sp_widget display_value="Login"&gt;6506d341cb33020000f8d856634c9cdc&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-02-25 11:45:13&lt;/sys_created_on&gt;&lt;sys_id&gt;2b6d8d4e97e48210da5ff141f053afa2&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Login&lt;/sys_name&gt;&lt;sys_package display_value="my app" source="x_1324330_app"&gt;048ffc0e97a48210da5ff141f053af8a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="my app"&gt;048ffc0e97a48210da5ff141f053af8a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_2b6d8d4e97e48210da5ff141f053afa2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-02-25 14:08:16&lt;/sys_updated_on&gt;&lt;title&gt;Login&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"show_panel": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"use_advanced": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2b6d8d4e97e48210da5ff141f053afa2"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2134460516</payload_hash>
+        <record_name>Login</record_name>
+        <reverted_from/>
+        <source>848ffc0e97a48210da5ff141f053af8c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 14:08:16</sys_created_on>
+        <sys_id>0f2ea94e97688210da5ff141f053af08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18de09858570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 14:08:16</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>072ea94e3e68821024efc1d844345d08</update_guid>
+        <update_guid_history>072ea94e3e68821024efc1d844345d08:-2134460516,71e525466b6882108e82a77c0a0c1199:-1363461095,fed525462a688210646b9938014e3794:-2105330571,dfc5ed0e35288210494c3d3e53bf50bd:-492195801,87211d8e45e48210c180f86cabb8467e:957338856,236d8d4ee1e482107bf10df9b32a48a4:-723354939</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Login">d6df25ce97688210da5ff141f053af84</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 14:15:35</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>3e607dfcacde43a0b26193fb8b2b8040</sys_id>
+        <sys_metadata>2b6d8d4e97e48210da5ff141f053afa2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Login</sys_name>
+        <sys_package display_value="my app" source="x_1324330_app">048ffc0e97a48210da5ff141f053af8a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="my app">048ffc0e97a48210da5ff141f053af8a</sys_scope>
+        <sys_scope_delete display_value="">30f8b0b2241048afb7bbde3dfb58da91</sys_scope_delete>
+        <sys_update_name>sp_instance_2b6d8d4e97e48210da5ff141f053afa2</sys_update_name>
+        <sys_update_version display_value="sp_instance_2b6d8d4e97e48210da5ff141f053afa2">0f2ea94e97688210da5ff141f053af08</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 14:15:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

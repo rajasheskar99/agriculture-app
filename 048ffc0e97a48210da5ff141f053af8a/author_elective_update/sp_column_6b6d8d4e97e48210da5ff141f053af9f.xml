@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name>col-sm-offset-3 col-md-offset-4</class_name>
+        <order>1</order>
+        <size>4</size>
+        <size_lg/>
+        <size_sm>6</size_sm>
+        <size_xs/>
+        <sp_row display_value="1">2f6d0d4e97e48210da5ff141f053afd0</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 11:45:13</sys_created_on>
+        <sys_id>6b6d8d4e97e48210da5ff141f053af9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="my app" source="x_1324330_app">048ffc0e97a48210da5ff141f053af8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my app">048ffc0e97a48210da5ff141f053af8a</sys_scope>
+        <sys_update_name>sp_column_6b6d8d4e97e48210da5ff141f053af9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 11:45:13</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="my app">048ffc0e97a48210da5ff141f053af8a</application>
+        <file_path/>
+        <instance_id>3d29ebdf6f899640d54da9cc5d3ee498</instance_id>
+        <instance_name>dev17570</instance_name>
+        <name>sp_column_6b6d8d4e97e48210da5ff141f053af9f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name>col-sm-offset-3 col-md-offset-4</class_name><order>1</order><size>4</size><size_lg/><size_sm>6</size_sm><size_xs/><sp_row display_value="1">2f6d0d4e97e48210da5ff141f053afd0</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-25 11:45:13</sys_created_on><sys_id>6b6d8d4e97e48210da5ff141f053af9f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="my app" source="x_1324330_app">048ffc0e97a48210da5ff141f053af8a</sys_package><sys_policy/><sys_scope display_value="my app">048ffc0e97a48210da5ff141f053af8a</sys_scope><sys_update_name>sp_column_6b6d8d4e97e48210da5ff141f053af9f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-25 11:45:13</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>967850931</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>848ffc0e97a48210da5ff141f053af8c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 11:45:13</sys_created_on>
+        <sys_id>af6d8d4e97e48210da5ff141f053afa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18de015603d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 11:45:13</sys_updated_on>
+        <type>Column</type>
+        <update_guid>e36d8d4ea9e4821089b7eb7a903326a1</update_guid>
+        <update_guid_history>e36d8d4ea9e4821089b7eb7a903326a1:967850931</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">d7007d8e97688210da5ff141f053af42</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 14:16:28</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>a9c70b626f1d47f38e9f475007e51f19</sys_id>
+        <sys_metadata>6b6d8d4e97e48210da5ff141f053af9f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="my app" source="x_1324330_app">048ffc0e97a48210da5ff141f053af8a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="my app">048ffc0e97a48210da5ff141f053af8a</sys_scope>
+        <sys_scope_delete display_value="">30f8b0b2241048afb7bbde3dfb58da91</sys_scope_delete>
+        <sys_update_name>sp_column_6b6d8d4e97e48210da5ff141f053af9f</sys_update_name>
+        <sys_update_version display_value="sp_column_6b6d8d4e97e48210da5ff141f053af9f">af6d8d4e97e48210da5ff141f053afa1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 14:16:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
